@@ -1,0 +1,114 @@
+{
+    "listings": [
+        {
+            "id": 1,
+            "title": "Casa acogedora en el centro de la ciudad",
+            "location": "Madrid, España",
+            "price": 80,
+            "images": ["image1.jpg", "image2.jpg"],
+            "host": {
+                "name": "Juan",
+                "rating": 4.8
+            }
+        },
+        {
+            "id": 2,
+            "title": "Apartamento con vistas al mar",
+            "location": "Barcelona, España",
+            "price": 120,
+            "images": ["image3.jpg", "image4.jpg"],
+            "host": {
+                "name": "Maria",
+                "rating": 4.9
+            }
+        },
+        {
+            "id": 3,
+            "title": "Villa de lujo en la playa",
+            "location": "Valencia, España",
+            "price": 200,
+            "images": ["image5.jpg", "image6.jpg"],
+            "host": {
+                "name": "Carlos",
+                "rating": 4.7
+            }
+        },
+        {
+            "id": 4,
+            "title": "Estudio moderno en el casco antiguo",
+            "location": "Sevilla, España",
+            "price": 60,
+            "images": ["image7.jpg", "image8.jpg"],
+            "host": {
+                "name": "Ana",
+                "rating": 4.6
+            }
+        },
+        {
+            "id": 5,
+            "title": "Piso amplio con terraza",
+            "location": "Bilbao, España",
+            "price": 90,
+            "images": ["image9.jpg", "image10.jpg"],
+            "host": {
+                "name": "Pedro",
+                "rating": 4.8
+            }
+        },
+        {
+            "id": 6,
+            "title": "Loft industrial en el centro",
+            "location": "Zaragoza, España",
+            "price": 75,
+            "images": ["image11.jpg", "image12.jpg"],
+            "host": {
+                "name": "Isabel",
+                "rating": 4.9
+            }
+        },
+        {
+            "id": 7,
+            "title": "Casa rural en la montaña",
+            "location": "Asturias, España",
+            "price": 100,
+            "images": ["image13.jpg", "image14.jpg"],
+            "host": {
+                "name": "Sergio",
+                "rating": 4.7
+            }
+        },
+        {
+            "id": 8,
+            "title": "Apartamento luminoso cerca del parque",
+            "location": "Salamanca, España",
+            "price": 65,
+            "images": ["image15.jpg", "image16.jpg"],
+            "host": {
+                "name": "Carmen",
+                "rating": 4.8
+            }
+        },
+        {
+            "id": 9,
+            "title": "Casa con jardín y piscina",
+            "location": "Málaga, España",
+            "price": 150,
+            "images": ["image17.jpg", "image18.jpg"],
+            "host": {
+                "name": "Antonio",
+                "rating": 4.9
+            }
+        },
+        {
+            "id": 10,
+            "title": "Piso céntrico con vistas a la ciudad",
+            "location": "Granada, España",
+            "price": 70,
+            "images": ["image19.jpg", "image20.jpg"],
+            "host": {
+                "name": "Rosa",
+                "rating": 4.8
+            }
+        }
+    ]
+}
